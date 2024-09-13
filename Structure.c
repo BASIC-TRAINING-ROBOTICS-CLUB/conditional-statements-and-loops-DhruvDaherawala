@@ -10,6 +10,7 @@ int main(){
     Dhruv.En_No = 2114;
     Dhruv.CPI = 9.9;
     Dhruv.SPI = 9.9;
+
     printf("For : Dhruv Daherawala\n\n");
     printf("Enrolment is %d\n",Dhruv.En_No);
     printf("CPI is %.1f\n",Dhruv.CPI);
@@ -20,10 +21,10 @@ int main(){
     Lad.CPI = 9.9;
     Lad.SPI = 9.9;
 
-printf("For : Dhruv Lad\n\n");
+    printf("For : Dhruv Lad\n\n");
 
 
-printf("Enrolment is %d\n",Lad.En_No);
-printf("CPI is %.1f\n",Lad.CPI);
-printf("SPI is %.1f\n",Lad.SPI);
+    printf("Enrolment is %d\n",Lad.En_No);
+    printf("CPI is %.1f\n",Lad.CPI);
+    printf("SPI is %.1f\n",Lad.SPI);
 }
